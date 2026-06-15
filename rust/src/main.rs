@@ -1,5 +1,5 @@
-use std::io;
 use permutation_enum::output;
+use std::io;
 
 fn main() -> io::Result<()> {
     let n: usize = std::env::args()

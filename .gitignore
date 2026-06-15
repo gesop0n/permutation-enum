@@ -1,4 +1,10 @@
-/target
+# Rust
+/rust/target
+
+# Haskell（ghc でコンパイルした場合の生成物。runghc なら出ない）
+*.hi
+*.o
+/haskell/Main
 
 # direnv
 .envrc
