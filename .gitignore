@@ -3,3 +3,9 @@
 # direnv
 .envrc
 .direnv/
+
+# Agent Tools
+.serena/
+
+# Mac OS
+.DS_Store
